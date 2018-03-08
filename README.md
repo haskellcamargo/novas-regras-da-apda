@@ -26,7 +26,7 @@ A sua dúvida pode ser a dúvida de mais pessoas. O grupo tem por objetivo ser u
 
 A tag `[OFF]` é utilizada para assuntos que fujam do foco de discussão do grupo, e deve ser utilizada com cautela. Um usuário ativo na comunidade, que ajuda os usuários em suas dúvidas e faz publicações relevantes não será tão mal visto ao publicar um `[OFF]` quanto um que faz **apenas** publicações fora do contexto do grupo.
 
-#### 2.3 O gato da seriedade
+#### 2.3. O gato da seriedade
 
 A zoeira tem limites, **SIM**. Quem disser que a zoeira não tem limites, vai para a rua na hora! 
 O grupo tolera brincadeiras e desvios de assunto, pois todos somos depressivos e precisamos nos divertir; porém há momentos em que a seriedade é necessária - tanto por posts dos administradores, quanto para alguns casos dos próprios membros (geralmente é o caso de enquetes abertas).
