@@ -32,3 +32,7 @@ A zoeira tem limites, **SIM**. Quem disser que a zoeira não tem limites, vai pa
 O grupo tolera brincadeiras e desvios de assunto, pois todos somos depressivos e precisamos nos divertir; porém há momentos em que a seriedade é necessária - tanto por posts dos administradores, quanto para alguns casos dos próprios membros (geralmente é o caso de enquetes abertas).
 
 Quando o emoticon **(=^・ｪ・^=)** estiver no tópico, significa que a zoeira será muito mais limitada dentro, e que o tópico tem intenções sérias, e a moderação será mais rígida. Usuários podem usar o Gato da Seriedade, porém há um limite - levarão um puxão de orelha se usarem com frequência.
+
+#### 2.4. Nunca separe o predicato do sujeito com vírgula
+
+Erros gramaticais são tolerados, com exceção deste. A frase `Quack, é melhor que Java.` está **errada**. A forma correta seria `Quack é muito melhor que Java.`.
